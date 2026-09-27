@@ -1,0 +1,33 @@
+# --- Python basics ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+ENV/
+
+# --- IDE / Editor files ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Logs & temp ---
+*.log
+*.tmp
+*.bak
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- Project specific ---
+# Ignore test batches or local configs if needed
+batch_test/

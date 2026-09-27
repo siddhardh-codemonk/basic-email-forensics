@@ -1,0 +1,31 @@
+Delivered-To: student@example-corp.in
+Received: by 2002:a05:6000:bbbb::1 with SMTP id rrr;
+        Tue, 25 Aug 2026 14:30:00 -0700 (PDT)
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.example-corp.in with ESMTPS id jkl012;
+        Tue, 25 Aug 2026 14:29:58 -0700 (PDT)
+Authentication-Results: mx.example-corp.in;
+       spf=pass smtp.mailfrom=noreply@google.com;
+       dkim=pass header.d=google.com;
+       dmarc=pass header.from=google.com
+From: "Google Workspace" <noreply@google.com>
+Reply-To: noreply@google.com
+Return-Path: <noreply@google.com>
+To: student@example-corp.in
+Subject: Your monthly Google Drive storage summary
+Date: Tue, 25 Aug 2026 14:29:55 -0700
+Message-ID: <pqr789@google.com>
+Content-Type: text/plain; charset="UTF-8"
+
+Hi there,
+
+Here's a quick summary of your Google Drive storage for this month:
+
+Used: 4.2 GB of 15 GB
+Files added: 23
+Files shared with you: 5
+
+You can view your full storage details anytime in Drive settings.
+
+Thanks,
+The Google Workspace Team

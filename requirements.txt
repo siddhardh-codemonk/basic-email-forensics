@@ -1,0 +1,5 @@
+streamlit
+requests
+dkimpy
+dnspython
+python-whois

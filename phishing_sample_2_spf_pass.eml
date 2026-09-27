@@ -1,0 +1,30 @@
+Delivered-To: employee@example-corp.in
+Received: by 2002:a05:6000:aaaa::1 with SMTP id qqq;
+        Tue, 25 Aug 2026 11:02:10 -0700 (PDT)
+Received: from mx1.legit-sending-service.com (mx1.legit-sending-service.com. [104.28.14.55])
+        by mx.example-corp.in with ESMTPS id ghi789;
+        Tue, 25 Aug 2026 11:02:08 -0700 (PDT)
+Authentication-Results: mx.example-corp.in;
+       spf=pass smtp.mailfrom=noreply@legit-sending-service.com;
+       dkim=pass header.d=legit-sending-service.com;
+       dmarc=fail (p=NONE) header.from=microsoft-support.co
+From: "Microsoft Account Team" <support@microsoft-support.co>
+Reply-To: support@microsoft-support.co
+Return-Path: <noreply@legit-sending-service.com>
+To: employee@example-corp.in
+Subject: Your Microsoft 365 password expires soon - Action required
+Date: Tue, 25 Aug 2026 11:02:05 -0700
+Message-ID: <mno456@legit-sending-service.com>
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Your Microsoft 365 password will expire in 3 days. To avoid losing access
+to your account, please confirm your identity and update your password
+immediately using the secure link below.
+
+http://microsoft-support.co/account/update-password
+
+If you do not update your password, your account access may be restricted.
+
+Microsoft Account Team
